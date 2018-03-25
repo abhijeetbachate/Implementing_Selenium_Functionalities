@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17924" started-at="2018-03-24T18:06:55Z" finished-at="2018-03-24T18:07:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17924" started-at="2018-03-24T18:06:55Z" finished-at="2018-03-24T18:07:13Z">
+      <class name="com.implementingSeleniumFunctionalities.Test2">
+        <test-method status="PASS" signature="validatename()[pri:0, instance:com.implementingSeleniumFunctionalities.Test2@20e2cbe0]" name="validatename" duration-ms="17884" started-at="2018-03-24T23:36:55Z" finished-at="2018-03-24T23:37:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatename -->
+      </class> <!-- com.implementingSeleniumFunctionalities.Test2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
